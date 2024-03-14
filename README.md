@@ -1,4 +1,4 @@
-# Bucket Problem
+# Basket Problem
 
 
 **Formula used**:
